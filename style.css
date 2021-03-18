@@ -1,0 +1,37 @@
+#left-image {
+    height: 500px;
+    width: 500px;
+    float:left;
+    margin: 5px;
+    }
+
+.right-image {
+    height: 250px;
+    width: 250px;
+    margin: 5px;
+
+}
+
+.top-image {
+
+    height: 500x;
+    width: 500px;
+    margin: 5px;
+    
+}
+
+.bottom-image {
+
+    height: 500x;
+    width: 500px;
+    margin: 5px
+    
+}
+body {
+    background-color: lightgray;
+}
+
+p{
+    font: 1em sans-serif;
+    font-size: 20px;
+}
